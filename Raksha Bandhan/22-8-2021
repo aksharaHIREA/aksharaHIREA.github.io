@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head><title>Raksha Bandhan</title></head> 
+<style>
+body{
+background-image: url('src/img/cv.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}    
+h1{
+color: red;  
+}
+img{
+border: 3px solid rgb(190, 9, 9);
+}
+a:link, a:visited {
+background-color: #00076b;
+color: rgb(255, 255, 255);
+padding: 15px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+</style> 
+<body>
+<marquee><h1><em>Happy Raksha Bandhan</em></h1></marquee>    
+<center>
+<img src="src/img/tddt.jpg" alt="no picture" width="400" height="300">  
+</center>  
+<center>
+<h1><em>Happy Raksha Bandhan</em></h1>    
+<pre>
+<h2>    
+<em><span style="color: rgba(255, 145, 20, 0.904);">Raksha Bandhan</span> tells the loving relationship between<span style="color: rgba(4, 0, 250, 0.904);"> brother and sister.</span></em> 
+<em>Sister tie a<span style="color: rgba(250, 0, 75, 0.904);"> Rakhi</span> on the wrist of their brother.In return,<span style="color: rgba(0, 255, 242, 0.904);">brother</span> present gifts to thier<span style="color: rgba(255, 166, 166, 0.904);">sister</span>.</em>
+<em><span style="color: rgba(21, 175, 16, 0.904);">Sister pray</span> for long life for their brother.Their many ways of <span style="color: rgba(183, 250, 0, 0.904);">celebration</span> for this<span style="color: rgba(242, 0, 250, 0.904);"> beautiful festival</span>.</em>
+<em><span style="color: rgba(0, 153, 255, 0.904);">Raksha Bandhan</span> is a famous <span style="color: rgba(174, 0, 255, 0.904);">festival of Hindus</span>.It is <span style="color: rgb(133, 0, 0);">celebrate</span> across all over <span style="color: rgb(0, 13, 133);">India</span>.</em>
+<em><span style="color: rgb(133, 0, 73);">Raksha</span> means protection and <span style="color: rgb(144, 187, 2);">Bandhan</span> means bound.Thus <span style="color: rgb(209, 178, 0);">Raksha Bandehan</span> the Bond of Protection.</em> 
+<em>It is a <span style="color: rgba(245, 0, 253, 0.808);">festival</span> of brother and sister.On this day people get up early and wear <span style="color: rgb(50, 177, 0);">new clothes</span>.</em>
+</h2>   
+</pre>    
+</center>
+<center>
+<img src="src/img/sweet.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><em>Raksha Bandhan ki Thali</em></h1>
+</center>
+<center>
+<pre><h2>
+<em><span style="color: rgb(253, 93, 0);">Dear Brother...</span></em> 
+<em><span style="color: rgb(0, 4, 253);">Rakhi</span> is a perfect time to tell you just how <span style="color: rgb(0, 255, 221);">special</span> how are,and how much you to mean to me!</em>   
+<em><span style="color: rgb(253, 0, 177);">Wishing</span> you peace,<span style="color: rgb(253, 228, 0);">prosperity & success</span> on this...</em>
+</pre></h2>
+</center>
+<center>
+<img src="src/img/gift.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><em>My Raksha Bandhan gift</em></h1>
+</center>
+<center>
+<pre>
+<h2>
+<em><span style="color: rgb(253, 0, 0);">A Sister</span> is a gift to the heart, <span style="color: rgb(132, 255, 153);">A Friend</span> to the spirit, <span style="color: rgb(253, 0, 177);">A Golden</span> thread to the meaning of lite.tn</em>    
+</h2>    
+</pre>
+</center>
+<center>
+<img src="src/img/4yuolu.jpg" alt="no picture" width="400" height="300">  
+</center>
+<center>
+<h1><em>Raksha Bandhan sweet</em></h1>
+</center>
+<center>
+<pre>
+<h2>
+<span style="color: rgb(253, 0, 0);">Chawal ki Khushbu</span> or <span style="color: rgb(253, 122, 0);">Kesar</span> ka singar <span style="color: rgb(215, 0, 253);">Rakhi,Tilak,Mithai,</span>Or khusiyo ki Bauchar.
+<span style="color: rgb(43, 226, 250);">Behno</span> ka sath or Besumar <span style="color: rgb(2, 105, 20);">pyar Mubarak</span> ho apko <span style="color: rgba(30, 0, 100, 0.377);">Raakhi ko Tyohar</span>.  
+</h2>    
+</pre>
+</center>
+<center>
+<a href="https://github.com/aksharaHIREA">visit to my github</a>    
+</center>
+</body>   
+</html>
